@@ -113,7 +113,7 @@
       "youtubeId": "",
       "date": "2022-01-07",
       "productFieldValue": "sodium",
-      "productFieldUnit": "null"
+      "productFieldUnit": null
     },
     {
       "curationId": 10,
@@ -124,7 +124,7 @@
       "youtubeId": "",
       "date": "2022-01-07",
       "productFieldValue": "sodium",
-      "productFieldUnit": "null"
+      "productFieldUnit": null
     },
     {
       "curationId": 11,
@@ -135,7 +135,7 @@
       "youtubeId": "",
       "date": "2022-02-07",
       "productFieldValue": "fat",
-      "productFieldUnit": "null"
+      "productFieldUnit": null
     },
     {
       "curationId": 12,
@@ -146,7 +146,7 @@
       "youtubeId": "",
       "date": "2022-02-07",
       "productFieldValue": "fat",
-      "productFieldUnit": "null"
+      "productFieldUnit": null
     }
   ]
 }
