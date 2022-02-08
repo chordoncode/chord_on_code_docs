@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "products": [
     {
       "productId": 0,
@@ -4923,7 +4923,7 @@
       "sodium": "1160mg(58%)",
       "calcium": "-",
       "imagePath": "https://www.samyangfoods.com/upload/product/20200116/20200116164617633023.jpg",
-      "additionalImagePaths": null,
+      "additionalImagePaths": "1, 2",
       "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=14366&itemId=42032&vendorItemId=3000014971"
     },
     {
