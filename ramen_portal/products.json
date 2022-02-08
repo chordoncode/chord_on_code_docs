@@ -4448,7 +4448,7 @@
       "sodium": "1280mg(64%)",
       "calcium": "-",
       "imagePath": "https://www.samyangfoods.com/upload/product/20200309/20200309161335950019.jpg",
-      "additionalImagePaths": "1, 2, 3",
+      "additionalImagePaths": null,
       "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=117523085&itemId=781065123&vendorItemId=3000014958"
     },
     {
@@ -5198,7 +5198,7 @@
       "sodium": "1500mg(75%)",
       "calcium": "-",
       "imagePath": "https://www.samyangfoods.com/upload/product/20161111/20161111210737599007.png",
-      "additionalImagePaths": null,
+      "additionalImagePaths": "1,2,3",
       "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1343193968&itemId=2370529146&vendorItemId=76757315467"
     },
     {
