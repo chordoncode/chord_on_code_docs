@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "products": [
     {
       "productId": 0,
@@ -7998,7 +7998,7 @@
       "sodium": null,
       "calcium": null,
       "imagePath": "http://gs25appimg.gsretail.com/imgsvr/item/GD_8809296882831_005.jpg",
-      "additionalImagePaths": null,
+      "additionalImagePaths": "1, 2, 3",
       "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6078702532&itemId=11256626435&vendorItemId=76823274052"
     },
     {
