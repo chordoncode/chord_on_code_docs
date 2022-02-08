@@ -1473,7 +1473,7 @@
       "sodium": "1160mg(58%)",
       "calcium": "-",
       "imagePath": "http://image.nongshim.com/non/pro/1577080044002.jpg",
-      "additionalImagePaths": "1, 2",
+      "additionalImagePaths": null,
       "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1163437517&itemId=2140379099&vendorItemId=70138775750"
     },
     {
@@ -2998,7 +2998,7 @@
       "sodium": "1550mg(78%)",
       "calcium": "-",
       "imagePath": "http://www.ottogi.co.kr/pds/product/2020-08-03_792027579[7].jpg",
-      "additionalImagePaths": null,
+      "additionalImagePaths": "1, 2",
       "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6122362498&itemId=11613971763&vendorItemId=3083116824"
     },
     {
