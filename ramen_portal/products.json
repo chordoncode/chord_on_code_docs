@@ -2398,7 +2398,7 @@
       "sodium": "1390mg(70%)",
       "calcium": "-",
       "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/36e1/c902974f4c305e6e1587992a2433c10e474dd9af6023571f74a933faa0c7.jpg",
-      "additionalImagePaths": null,
+      "additionalImagePaths": "1,2,3",
       "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=167415217&itemId=479386899&vendorItemId=78346896463"
     },
     {
@@ -3873,7 +3873,7 @@
       "sodium": "1180mg(59%)",
       "calcium": "-",
       "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-27_1020189348[9].jpg",
-      "additionalImagePaths": null,
+      "additionalImagePaths": "1,2,3,4",
       "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=12531130&itemId=53178430&vendorItemId=3083116810"
     },
     {
@@ -5698,7 +5698,7 @@
       "sodium": "1,410mg(71%)",
       "calcium": "-",
       "imagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/166736662246781-1ef6c003-a8f1-4532-9fff-590d0d6cd3fc.jpg",
-      "additionalImagePaths": "1, 2, 3",
+      "additionalImagePaths": "1, 2, 3, 4",
       "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=21183056&itemId=82696948&vendorItemId=3059563438"
     },
     {
@@ -7998,7 +7998,7 @@
       "sodium": null,
       "calcium": null,
       "imagePath": "http://gs25appimg.gsretail.com/imgsvr/item/GD_8809296882831_005.jpg",
-      "additionalImagePaths": "1, 2",
+      "additionalImagePaths": "1,2,3",
       "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6078702532&itemId=11256626435&vendorItemId=76823274052"
     },
     {
@@ -9075,6 +9075,31 @@
       "imagePath": "http://www.veganlove.co.kr/shopimages/vegn/035000000075.jpg",
       "additionalImagePaths": null,
       "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1441088635&itemId=2484985634&vendorItemId=71247782704"
+    },
+    {
+      "productId": 363,
+      "brand": "한일식품",
+      "title": "본고장 라볶이",
+      "hashtags": "본고장라볶이",
+      "kcal": 405,
+      "time": 120,
+      "type": "컵",
+      "water": 200,
+      "ingredient": "1)본고장생라맨!(1600) : 밀가루(밀:미국산 캐나다산), 변성전분, 글루텐(독일산), 정게소금(국산), 옥수수기름, 기타식용유지가공품, 양파농축액, 두류가공품, 알긴산에스테르, 면류첨가알칼리제(탄산칼륨, 탄산나트륨, 피로인산나트륨), 혼합게제(산도조절제정제수), 치자황색소(치자황색소, 덱스트린)\n2)볶음누들분말스프(320) : 갈색설탕, 쇠고기진국다시[정제소금(국내산), 전분(옥수수:외국산), 말토덱스트린, 유지크림분[식물성유지(외국산), 혼합분유(네덜란드산)], 청양고추가루, 고촛가루, 건양파분말, 옥수수전분, 마늘분말, 탄산나트륨, 순카레맛에이에스-2, [글루탐산나트륨(향미증진제), 백후추, 이산화규소, 제삼인산칼승, 파프리카추출색소, 구아검, 올레올레진캠시컴, 5-리보뉴클레오티드이나트륨, 0:토고페롤(혼합형)\n3)라볶이후레이크(80) : 건양배추(중국산), 건조어묵[연육(미국산), 소맥분(밀:미국산), 부산어묵맛후레이크, 건양파, 건당근\n밀, 대두, 계란, 우유, 닭고기, 쇠고기, 오징어, 조개류(굴, 바지락)함유",
+      "weight": 200,
+      "released": null,
+      "carbohydrate": "82g(25%)",
+      "saccharide": "15g(15%)",
+      "protein": "10(18%)",
+      "fat": "4g(7%)",
+      "saturatedFat": "1.8g(12%)",
+      "transFat": "0g",
+      "cholesterol": "10mg(3%)",
+      "sodium": "1860mg(93%)",
+      "calcium": "-",
+      "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fed3/92ad68210a0a9c29c44646ed6a13fec95a1a82ebbcefec4105ad9024da9c.jpg",
+      "additionalImagePaths": "1,2,3",
+      "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6139314577&itemId=11763503355&vendorItemId=74101201842"
     }
   ]
 }
