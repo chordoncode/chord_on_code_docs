@@ -2,6 +2,7 @@
   {
     "title": "혼자 시키긴 너무 비싸니까",
     "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/nanulbun_too_expensive_delivery1.png",
-    "link": ""
+    "link": "",
+    "maxAppVersion": "999.0.0"
   }
 ]
