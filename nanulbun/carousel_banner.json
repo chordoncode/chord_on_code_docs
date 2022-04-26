@@ -1,5 +1,11 @@
 [
   {
+    "title": "나눌분 이해하기",
+    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/nanulbun_understanding_banner.gif",
+    "link": "https://www.chordoncode.com/nanulbun/assets/banner/nanulbun_understanding.html",
+    "maxAppVersion": "999.0.0"
+  },
+  {
     "title": "아직도 배송비를 혼자내요",
     "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/still_pay_alone.png",
     "link": "",
