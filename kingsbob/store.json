@@ -1,63 +1,25 @@
 [
   {
     "kingsIds": "yoon-seok-yeol",
-    "storeName": "진주집",
-    "address": "서울 중구 남대문시장길 22-2",
-    "hoursOfOperation": "07:00 ~ 10:00",
-    "latLng": [
-      37.5600419,
-      126.9770961
-    ],
-    "phoneNumber": "02-753-9813",
-    "representativeImages": "https://lh5.googleusercontent.com/p/AF1QipN5HeGxr4K1LhVbObFooxsbfUgNr0hBUXLZIr8=w520-h350-n-k-no",
-    "storeDesc": "70년 전통, 꼬리곰탕/해장국 전문",
-    "mapUrl": "https://goo.gl/maps/nrtu8D9nrGSVtxtB8"
-  },
-  {
-    "kingsIds": "yoon-seok-yeol",
-    "storeName": "신신짬뽕",
-    "address": "경상북도 울진군 울진읍 읍내리 211-2",
-    "hoursOfOperation": "11:00 ~ 20:30(월요일 휴무)",
-    "latLng": [
-      36.9856994,
-      129.3976986
-    ],
-    "phoneNumber": "054-781-2278",
-    "representativeImages": "https://lh5.googleusercontent.com/p/AF1QipN5HeGxr4K1LhVbObFooxsbfUgNr0hBUXLZIr8=w520-h350-n-k-no",
-    "storeDesc": "짬뽕 전문점, 울진본점",
-    "mapUrl": "https://goo.gl/maps/tFfvBctewHdje54ZA"
-  },
-  {
-    "kingsIds": "yoon-seok-yeol",
-    "storeName": "뚱낙원",
-    "address": "서울특별시 종로구 통의동 41-1",
-    "hoursOfOperation": "11:00 ~ 22:00",
-    "latLng": [
-      37.5765335,
-      126.973553
-    ],
-    "phoneNumber": "02-735-9734",
-    "representativeImages": "https://lh5.googleusercontent.com/p/AF1QipN5HeGxr4K1LhVbObFooxsbfUgNr0hBUXLZIr8=w520-h350-n-k-no",
-    "storeDesc": "원조 뚱엄마의 45년 전통의 집, 두루치기/김치찌개 전문",
-    "mapUrl": "https://goo.gl/maps/BSgXmztRMhVVqWry8"
-  },
-  {
-    "kingsIds": "yoon-seok-yeol",
+    "order": 1,
     "storeName": "H라운지",
-    "address": "서울특별시 종로구 자하문로4길 21-9",
+    "menuDesc": "커피, 브런치 (리조또, 감바스, 등.)",
+    "address": "서울 종로구 자하문로4길 21-9",
     "hoursOfOperation": "10:30 ~ 22:00(월요일 휴무)",
     "latLng": [
       37.5778463,
       126.9734671
     ],
     "phoneNumber": "02-722-0028",
-    "representativeImages": "https://lh5.googleusercontent.com/p/AF1QipN5HeGxr4K1LhVbObFooxsbfUgNr0hBUXLZIr8=w520-h350-n-k-no",
+    "representativeImages": "assets/images/image_ready.png",
     "storeDesc": "서촌 브런치 레스토랑, 넓고 깔끔한 인테리어로 데이트 코스로 좋아요",
     "mapUrl": "https://g.page/seochon_hlounge?share"
   },
   {
     "kingsIds": "yoon-seok-yeol",
+    "order": 2,
     "storeName": "봉피양",
+    "menuDesc": "한우, 냉면, 도가니탕, 메밀전, 등.",
     "address": "서울 종로구 자하문로 20",
     "hoursOfOperation": "11:00 ~ 21:30",
     "latLng": [
@@ -65,106 +27,168 @@
       126.9722861
     ],
     "phoneNumber": "02-732-9292",
-    "representativeImages": "https://lh5.googleusercontent.com/p/AF1QipN5HeGxr4K1LhVbObFooxsbfUgNr0hBUXLZIr8=w520-h350-n-k-no",
+    "representativeImages": "assets/images/image_ready.png",
     "storeDesc": "서울 3대 평양냉면 맛집, 육개장도 맛있어요",
     "mapUrl": "https://goo.gl/maps/qP4NPnXsHua1Do2W9"
   },
   {
     "kingsIds": "yoon-seok-yeol",
-    "storeName": "국일따로국밥",
-    "address": "대구광역시 중구 전동 7-1",
-    "hoursOfOperation": "24시간 영업",
+    "order": 3,
+    "storeName": "뚱낙원",
+    "menuDesc": "두루치기, 삼겹살, 찌개류, 등.",
+    "address": "서울 종로구 통의동 41-1",
+    "hoursOfOperation": "11:00 ~ 22:00",
     "latLng": [
-      35.87112,
-      128.5932164
+      37.5765335,
+      126.973553
     ],
-    "phoneNumber": "053-253-7623",
-    "representativeImages": "https://lh5.googleusercontent.com/p/AF1QipN5HeGxr4K1LhVbObFooxsbfUgNr0hBUXLZIr8=w520-h350-n-k-no",
-    "storeDesc": "1946년 이후 3대째 이어 오고 있는 노포",
-    "mapUrl": "https://goo.gl/maps/YQxCBL67crd4dxQP7"
+    "phoneNumber": "02-735-9734",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "원조 뚱엄마의 45년 전통의 집, 두루치기/김치찌개 전문",
+    "mapUrl": "https://goo.gl/maps/BSgXmztRMhVVqWry8"
   },
   {
     "kingsIds": "yoon-seok-yeol",
-    "storeName": "대정옥",
-    "address": "대구광역시 수성구 달구벌대로 2336",
-    "hoursOfOperation": "24시간 영업",
+    "order": 4,
+    "storeName": "진주집",
+    "menuDesc": "설렁탕, 해장국, 도가니탕, 등.",
+    "address": "서울 중구 남대문시장길 22-2",
+    "hoursOfOperation": "07:00 ~ 10:00",
     "latLng": [
-      35.8592785,
-      128.618057
+      37.5600419,
+      126.9770961
     ],
-    "phoneNumber": "053-752-5454",
-    "representativeImages": "https://lh5.googleusercontent.com/p/AF1QipN5HeGxr4K1LhVbObFooxsbfUgNr0hBUXLZIr8=w520-h350-n-k-no",
-    "storeDesc": "소고기무국을 먹으러 갔다가 떡갈비에도 반해요~",
-    "mapUrl": "https://g.page/DaeJeongOk?share"
+    "phoneNumber": "02-753-9813",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "70년 전통, 꼬리곰탕/해장국 전문",
+    "mapUrl": "https://goo.gl/maps/nrtu8D9nrGSVtxtB8"
   },
   {
     "kingsIds": "yoon-seok-yeol",
+    "order": 5,
     "storeName": "옛집 국수",
-    "address": "서울특별시 용산구 한강로1가 231-23",
+    "menuDesc": "콩국수, 비빔국수, 온국수, 칼국수, 수제비, 등.",
+    "address": "서울 용산구 한강로1가 231-23",
     "hoursOfOperation": "06:00 ~ 21:00(토요일 휴무)",
     "latLng": [
       37.5339174,
       126.9733228
     ],
     "phoneNumber": "02-794-8364",
-    "representativeImages": "https://lh5.googleusercontent.com/p/AF1QipN5HeGxr4K1LhVbObFooxsbfUgNr0hBUXLZIr8=w520-h350-n-k-no",
+    "representativeImages": "assets/images/image_ready.png",
     "storeDesc": "35년 전통 국수 전문점, 연탄불로 끓이는 멸치 육수",
     "mapUrl": "https://goo.gl/maps/YFFu1fEATZmPr48z6"
   },
   {
     "kingsIds": "yoon-seok-yeol",
-    "storeName": "명동 1번지 닭갈비",
-    "address": "강원도 춘천시 금강로62번길 7",
-    "hoursOfOperation": "10:30 ~ 21:30",
-    "latLng": [
-      37.8793446,
-      127.7278761
-    ],
-    "phoneNumber": "033-256-6448",
-    "representativeImages": "https://lh5.googleusercontent.com/p/AF1QipN5HeGxr4K1LhVbObFooxsbfUgNr0hBUXLZIr8=w520-h350-n-k-no",
-    "storeDesc": "춘천명동닭갈비 골목에 위치, 닭갈비/막국수 전문",
-    "mapUrl": "https://goo.gl/maps/GiKLUyXjKP6Wft6P8"
-  },
-  {
-    "kingsIds": "yoon-seok-yeol",
-    "storeName": "감자바우",
-    "address": "강원도 강릉시 중앙동 금성로 35",
-    "hoursOfOperation": "09:00 ~ 21:00",
-    "latLng": [
-      37.7530643,
-      128.8970676
-    ],
-    "phoneNumber": "033-648-4982",
-    "representativeImages": "https://lh5.googleusercontent.com/p/AF1QipN5HeGxr4K1LhVbObFooxsbfUgNr0hBUXLZIr8=w520-h350-n-k-no",
-    "storeDesc": "감자옹심이정식, 해물옹심이 전문",
-    "mapUrl": "https://goo.gl/maps/ohg7ooBdiJrNZUgK9"
-  },
-  {
-    "kingsIds": "yoon-seok-yeol",
-    "storeName": "모던 양반",
-    "address": "경상북도 안동시 풍천면 갈전리 1205 양반",
-    "hoursOfOperation": "11:30 ~ 20:30",
-    "latLng": [
-      36.5793083,
-      128.5003729
-    ],
-    "phoneNumber": "054-634-8000",
-    "representativeImages": "https://lh5.googleusercontent.com/p/AF1QipN5HeGxr4K1LhVbObFooxsbfUgNr0hBUXLZIr8=w520-h350-n-k-no",
-    "storeDesc": "향토음식전문가 강성숙 대표가 바른먹거리를 주제로 하는 모던한정식",
-    "mapUrl": "https://g.page/ANDONGYANGBAN?share"
-  },
-  {
-    "kingsIds": "yoon-seok-yeol",
+    "order": 6,
     "storeName": "골든볼9",
-    "address": "서울특별시 동작구 노량진동 82",
+    "menuDesc": "낙지직화불고기, 교자만두&줄감자, 소고기 바몬드카레, 등.",
+    "address": "서울 동작구 노량진동 82",
     "hoursOfOperation": "아침 06:30 ~ 09:30\n점심 11:00 ~ 14:30\n저녁 17:00 ~ 20:00 (일요일 휴무)",
     "latLng": [
       37.5127192,
       126.9431155
     ],
     "phoneNumber": "02-826-7542",
-    "representativeImages": "https://lh5.googleusercontent.com/p/AF1QipN5HeGxr4K1LhVbObFooxsbfUgNr0hBUXLZIr8=w520-h350-n-k-no",
+    "representativeImages": "assets/images/image_ready.png",
     "storeDesc": "노량진고시식당, 고시뷔페",
     "mapUrl": "https://goo.gl/maps/5wyM4NFkvprT9Stf9"
+  },
+  {
+    "kingsIds": "yoon-seok-yeol",
+    "order": 7,
+    "storeName": "명동 1번지 닭갈비",
+    "menuDesc": "닭갈비, 막국수",
+    "address": "강원 춘천시 금강로62번길 7",
+    "hoursOfOperation": "10:30 ~ 21:30",
+    "latLng": [
+      37.8793446,
+      127.7278761
+    ],
+    "phoneNumber": "033-256-6448",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "춘천명동닭갈비 골목에 위치, 닭갈비/막국수 전문",
+    "mapUrl": "https://goo.gl/maps/GiKLUyXjKP6Wft6P8"
+  },
+  {
+    "kingsIds": "yoon-seok-yeol",
+    "order": 8,
+    "storeName": "감자바우",
+    "menuDesc": "감자옹심, 감자전, 장칼국수, 등.",
+    "address": "강원 강릉시 중앙동 금성로 35",
+    "hoursOfOperation": "09:00 ~ 21:00",
+    "latLng": [
+      37.7530643,
+      128.8970676
+    ],
+    "phoneNumber": "033-648-4982",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "감자옹심이정식, 해물옹심이 전문",
+    "mapUrl": "https://goo.gl/maps/ohg7ooBdiJrNZUgK9"
+  },
+  {
+    "kingsIds": "yoon-seok-yeol",
+    "order": 9,
+    "storeName": "국일따로국밥",
+    "menuDesc": "국밥",
+    "address": "대구 중구 전동 7-1",
+    "hoursOfOperation": "24시간 영업",
+    "latLng": [
+      35.87112,
+      128.5932164
+    ],
+    "phoneNumber": "053-253-7623",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "1946년 이후 3대째 이어 오고 있는 노포",
+    "mapUrl": "https://goo.gl/maps/YQxCBL67crd4dxQP7"
+  },
+  {
+    "kingsIds": "yoon-seok-yeol",
+    "order": 10,
+    "storeName": "대정옥",
+    "menuDesc": "국밥, 곰탕, 냉면, 육회, 등.",
+    "address": "대구 수성구 달구벌대로 2336",
+    "hoursOfOperation": "24시간 영업",
+    "latLng": [
+      35.8592785,
+      128.618057
+    ],
+    "phoneNumber": "053-752-5454",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "소고기무국을 먹으러 갔다가 떡갈비에도 반해요~",
+    "mapUrl": "https://g.page/DaeJeongOk?share"
+  },
+  {
+    "kingsIds": "yoon-seok-yeol",
+    "order": 11,
+    "storeName": "모던 양반",
+    "menuDesc": "한정식 - 굴비, 새우장, 육회, 등.",
+    "address": "경북 안동시 풍천면 갈전리 1205 양반",
+    "hoursOfOperation": "11:30 ~ 20:30",
+    "latLng": [
+      36.5793083,
+      128.5003729
+    ],
+    "phoneNumber": "054-634-8000",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "향토음식전문가 강성숙 대표가 바른먹거리를 주제로 하는 모던한정식",
+    "mapUrl": "https://g.page/ANDONGYANGBAN?share"
+  },
+  {
+    "kingsIds": "yoon-seok-yeol",
+    "order": 12,
+    "storeName": "신신짬뽕",
+    "menuDesc": "차돌짬뽕, 순두부짬뽕, 짜장면, 등.",
+    "address": "경북 울진군 울진읍 읍내리 211-2",
+    "hoursOfOperation": "11:00 ~ 20:30(월요일 휴무)",
+    "latLng": [
+      36.9856994,
+      129.3976986
+    ],
+    "phoneNumber": "054-781-2278",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "짬뽕 전문점, 울진본점",
+    "mapUrl": "https://goo.gl/maps/tFfvBctewHdje54ZA"
   }
 ]
