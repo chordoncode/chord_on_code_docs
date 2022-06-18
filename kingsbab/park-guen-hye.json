@@ -1,0 +1,50 @@
+[
+  {
+    "kingsIds": "park-geun-hye",
+    "order": 1,
+    "storeName": "함경도집",
+    "menuDesc": "소머리국밥, 도가니탕, 갈비탕 등",
+    "address": "대전광역시 동구 중동 93-3",
+    "hoursOfOperation": "11:00 ~ 21:00",
+    "latLng": [
+      36.3297384,
+      127.4314839
+    ],
+    "phoneNumber": "042-257-3371",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "70년 전통의 명소",
+    "mapUrl": "https://goo.gl/maps/QjfcShzrPhzppm476"
+  },
+  {
+    "kingsIds": "park-geun-hye",
+    "order": 2,
+    "storeName": "성미당",
+    "menuDesc": "육회비빔밤, 전주비빔밥 등",
+    "address": "전라북도 전주시 완산구 중앙동3가 31-2",
+    "hoursOfOperation": "(월~금) 11:00 ~ 16:00, 17:30 ~ 20:00\n(토, 일) 11:00 ~ 20:00",
+    "latLng": [
+      35.8173299,
+      127.1452968
+    ],
+    "phoneNumber": "063-287-8800",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/sungmidang.jpg",
+    "storeDesc": "대한민국 역대 대통령들이 즐겨찾던 집",
+    "mapUrl": "https://goo.gl/maps/SKrbJoQ48Uh129PG7"
+  },
+  {
+    "kingsIds": "park-geun-hye",
+    "order": 3,
+    "storeName": "버섯골",
+    "menuDesc": "버섯불고기, 해물샤브샤브, 버섯탕수육 등",
+    "address": "대구광역시 달성군 논공읍 북리 803-73",
+    "hoursOfOperation": "10:00 ~ 22:00",
+    "latLng": [
+      35.7293938,
+      128.442565
+    ],
+    "phoneNumber": "053-616-5558",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/busudgol_daegu.jpg",
+    "storeDesc": "버섯요리전문점",
+    "mapUrl": "https://goo.gl/maps/pN5j2EM6Bne33Zrb8"
+  }
+]
