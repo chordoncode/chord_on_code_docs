@@ -1,0 +1,114 @@
+[
+  {
+    "kingsIds": "lee-myung-bak",
+    "order": 1,
+    "storeName": "안동국시 소람",
+    "menuDesc": "국시, 녹두전, 수육 등",
+    "address": "서울특별시 종로구 관훈동 인사동9길 16",
+    "hoursOfOperation": "11:00 ~ 21:30",
+    "latLng": [
+      37.5735762,
+      126.9841493
+    ],
+    "phoneNumber": "02-720-4490",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/soram.jpg",
+    "storeDesc": "‘청와대 칼국수’로 알려진 소호정의 비법을 그대로 전수 받은 안동국수 전문점",
+    "mapUrl": "https://goo.gl/maps/zNVDb2SU6z7nUGb69"
+  },
+  {
+    "kingsIds": "lee-myung-bak",
+    "order": 2,
+    "storeName": "감촌",
+    "menuDesc": "안주순두부, 순두부찌개, 하얀순두부 등",
+    "address": "서울특별시 종로구 종로 19",
+    "hoursOfOperation": "09:30 ~ 22:00(일요일 휴무)",
+    "latLng": [
+      37.5708033,
+      126.9798544
+    ],
+    "phoneNumber": "02-733-7035",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "사골을 24시간 푹 고아 끓여낸 육수를 사용해 찌개 국물이 걸쭉한 것이 이 집 맛의 특징",
+    "mapUrl": "https://goo.gl/maps/bgrjHoP9Hu2Ej7cG8"
+  },
+  {
+    "kingsIds": "lee-myung-bak",
+    "order": 3,
+    "storeName": "야우",
+    "menuDesc": "전복비빔밥, 해물전골 등",
+    "address": "서울특별시 종로구 인사동길 35-4",
+    "hoursOfOperation": "11:00 ~ 21:00",
+    "latLng": [
+      37.5735452,
+      126.9848188
+    ],
+    "phoneNumber": "02-723-3536",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/yawoo.jpg",
+    "storeDesc": "제주음식 전문점",
+    "mapUrl": "https://goo.gl/maps/PNdCcEhCwCS4B2qYA"
+  },
+  {
+    "kingsIds": "lee-myung-bak",
+    "order": 5,
+    "storeName": "동성회관",
+    "menuDesc": "동태탕, 갈비탕, 설렁탕 등",
+    "address": "경기 과천시 새술막길 36",
+    "hoursOfOperation": "09:00 ~ 22:00",
+    "latLng": [
+      37.4290833,
+      126.9911591
+    ],
+    "phoneNumber": "02-502-1333",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/dongsung.jpg",
+    "storeDesc": "관악산 하산 후 먹으면 꿀맛!",
+    "mapUrl": "https://goo.gl/maps/qdRD8z4BNREmHDNQ8"
+  },
+  {
+    "kingsIds": "lee-myung-bak",
+    "order": 6,
+    "storeName": "굴토리",
+    "menuDesc": "굴보쌈, 굴부추파전, 생굴회 등",
+    "address": "경기도 고양시 일산서구 대화동 호수로856번길 7-13",
+    "hoursOfOperation": "11:00 ~16:00\n17:00 ~ 21:30\n(일요일 휴무)",
+    "latLng": [
+      37.6711286,
+      126.7472372
+    ],
+    "phoneNumber": "031-924-1221",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/gultori.jpg",
+    "storeDesc": "FDA가 인정하는 남해안의 청정지역에서 매일 발송되는 싱싱한 굴을 사용",
+    "mapUrl": "https://goo.gl/maps/c2KEqvcrgU2WgyDR6"
+  },
+  {
+    "kingsIds": "lee-myung-bak",
+    "order": 4,
+    "storeName": "석교식당",
+    "menuDesc": "순대국, 내장탕 등",
+    "address": "서울특별시 서대문구 통일로 183-1",
+    "hoursOfOperation": "08:00 ~ 22:00\n(첫째,셋째 수요일 휴무)",
+    "latLng": [
+      37.5699044,
+      126.9623104
+    ],
+    "phoneNumber": "02-363-2803",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/sukkyo.jpg",
+    "storeDesc": "순대국 전문점",
+    "mapUrl": "https://goo.gl/maps/oHT1jcGao3tgdUTv8"
+  },
+  {
+    "kingsIds": "lee-myung-bak",
+    "order": 11,
+    "storeName": "산성식당",
+    "menuDesc": "우족도가니탕, 양곰탕 등",
+    "address": "경상북도 영천시 시장4길 52",
+    "hoursOfOperation": "11:00 ~ 21:30",
+    "latLng": [
+      35.9641749,
+      128.938509
+    ],
+    "phoneNumber": "0540-335-3290",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "",
+    "mapUrl": "https://goo.gl/maps/sCjHGZ9ZLYAiyqPt9"
+  }
+]
