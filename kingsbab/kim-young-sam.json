@@ -1,0 +1,34 @@
+[
+  {
+    "kingsIds": "kim-young-sam",
+    "order": 1,
+    "storeName": "국시집",
+    "menuDesc": "국시, 수육, 전 등",
+    "address": "서울특별시 성북구 성북동 창경궁로43길 9",
+    "hoursOfOperation": "화~일 12:00 ~ 21:00\n브레이크타임 화~일 14:30 ~ 17:30",
+    "latLng": [
+      37.5883894,
+      127.0042903
+    ],
+    "phoneNumber": "02-762-1924",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/kuksi.jpg",
+    "storeDesc": "칼국수가 맛있는 집",
+    "mapUrl": "https://goo.gl/maps/dKiuKzfJcLBZ9GCeA"
+  },
+  {
+    "kingsIds": "kim-young-sam",
+    "order": 2,
+    "storeName": "봉희설렁탕",
+    "menuDesc": "설렁탕, 양곰탕, 도가니탕, 꼬리곰탕 등",
+    "address": "서울특별시 은평구 신사동 증산로 413",
+    "hoursOfOperation": "06:00 ~ 22:00",
+    "latLng": [
+      37.5930798,
+      126.9138344
+    ],
+    "phoneNumber": "",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/bonghee.jpg",
+    "storeDesc": "설렁탕엔 역시 시원하게 냉장고에서 유리병 통째로 주는 깍두기와 김치가 제격",
+    "mapUrl": "https://goo.gl/maps/gWNkfXsaNLg8p1t77"
+  }
+]
