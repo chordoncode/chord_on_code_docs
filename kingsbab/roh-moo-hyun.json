@@ -1,0 +1,146 @@
+[
+  {
+    "kingsIds": "roh-moo-hyun",
+    "order": 1,
+    "storeName": "토속촌 삼계탕",
+    "menuDesc": "오골계 삼계탕, 삼계탕, 옻계탕 등",
+    "address": "서울 종로구 자하문로5길 5",
+    "hoursOfOperation": "10:00 ~ 22:00",
+    "latLng": [
+      37.5771889,
+      126.9713225
+    ],
+    "phoneNumber": "02-737-7444",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/tosok3gye.jpg",
+    "storeDesc": "청와대 요리사에게 요리 비법을 배워오라고 '지시'까지 내렸지만 끝내 비법을 알려주지 않았다는 '전설의 맛집'",
+    "mapUrl": "https://goo.gl/maps/iD9TDFRwzYbon8758"
+  },
+  {
+    "kingsIds": "roh-moo-hyun",
+    "order": 1,
+    "storeName": "삼청동 수제비",
+    "menuDesc": "수제비, 옹심이, 감자전 등",
+    "address": "서울 종로구 삼청로 101-1",
+    "hoursOfOperation": "11:00 ~ 21:00",
+    "latLng": [
+      37.5844951,
+      126.9818969
+    ],
+    "phoneNumber": "02-735-2965",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/3chungdong_sujebi.jpg",
+    "storeDesc": "2017년 미쉐린 가이드 서울",
+    "mapUrl": "https://goo.gl/maps/iqJ4s97si17esofh7"
+  },
+  {
+    "kingsIds": "roh-moo-hyun",
+    "order": 7,
+    "storeName": "해강횟집",
+    "menuDesc": "해강 활어회 자연산, 양식",
+    "address": "충남 서천군 마서면 당선리 92-26",
+    "hoursOfOperation": "10:00 ~ 21:30(월요일휴무)",
+    "latLng": [
+      36.0063031,
+      126.7333132
+    ],
+    "phoneNumber": "041-956-8885",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/haegang.jpg",
+    "storeDesc": "겉치레보다는 맛과 음식으로 승부한다",
+    "mapUrl": "https://goo.gl/maps/ERxtFFKBJLJaC5Av5"
+  },
+  {
+    "kingsIds": "roh-moo-hyun",
+    "order": 8,
+    "storeName": "하나분식",
+    "menuDesc": "분식, 김밥, 국밥, 기타 안주류 등",
+    "address": "광주 서구 양동시장2길 2 1층",
+    "hoursOfOperation": "11:00 ~ 22:00",
+    "latLng": [
+      35.1532797,
+      126.9021658
+    ],
+    "phoneNumber": "062-364-1778",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "분식과 소주 한잔이 어울리는 곳!",
+    "mapUrl": "https://goo.gl/maps/8xv4fMnqJAPHQLna7"
+  },
+  {
+    "kingsIds": "roh-moo-hyun",
+    "order": 10,
+    "storeName": "포항할매곰탕",
+    "menuDesc": "소머리곰탕, 도가니탕 등",
+    "address": "경북 영천시 시장4길 30 영천공설시장 제1지구 132~134호, 136~137호",
+    "hoursOfOperation": "06:00 ~ 21:00",
+    "latLng": [
+      35.9642644,
+      128.9378269
+    ],
+    "phoneNumber": "054-334-4531",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "영천 시장 곰탕골목에\b 위치한 소곰탕 전문점",
+    "mapUrl": "https://goo.gl/maps/EnNr7Z3MmAvB9V599"
+  },
+  {
+    "kingsIds": "roh-moo-hyun",
+    "order": 11,
+    "storeName": "하초동",
+    "menuDesc": "약돌한우, 약돌돼지 고추장구이, 능이버섯전골 등",
+    "address": "경북 문경시 문경읍 새재로 861",
+    "hoursOfOperation": "08:00 ~ 22:00",
+    "latLng": [
+      36.7554879,
+      128.0786558
+    ],
+    "phoneNumber": "054-571-7977",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/hachodong.jpg",
+    "storeDesc": "경상북도 지정 으뜸음식점",
+    "mapUrl": "https://goo.gl/maps/oYQmmfxa1er5bYNH9"
+  },
+  {
+    "kingsIds": "roh-moo-hyun",
+    "order": 12,
+    "storeName": "화포메기국",
+    "menuDesc": "메기국, 장어구이 등",
+    "address": "경남 김해시 한림면 한림로 252",
+    "hoursOfOperation": "11:00 ~ 21:00\n(첫째,셋째 일요일휴무)",
+    "latLng": [
+      35.3131248,
+      128.8095288
+    ],
+    "phoneNumber": "055-342-6266",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/hwapo.jpg",
+    "storeDesc": "김해 현지인 맛집 김해9미",
+    "mapUrl": "https://goo.gl/maps/FAYMY6bvjmfqJXkx8"
+  },
+  {
+    "kingsIds": "roh-moo-hyun",
+    "order": 13,
+    "storeName": "바보면가",
+    "menuDesc": "밀면, 비빔밀면, 손칼국수, 돈까스 등",
+    "address": "부산 서구 부민동 임시수도기념로 21-10",
+    "hoursOfOperation": "11:00 ~ 20:00(토요일휴무)",
+    "latLng": [
+      35.103027,
+      129.018591
+    ],
+    "phoneNumber": "051-255-8336",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/babo.jpg",
+    "storeDesc": "손칼국수, 기계밀면 전문, 모든메뉴5천원",
+    "mapUrl": "https://g.co/kgs/AauX8L"
+  },
+  {
+    "kingsIds": "roh-moo-hyun",
+    "order": 20,
+    "storeName": "물항식당",
+    "menuDesc": "갈치회, 고등어회 등",
+    "address": "제주도 제주시 건입동 1319-14",
+    "hoursOfOperation": "08:00 ~ 21:00(화요일휴무)",
+    "latLng": [
+      33.5169091,
+      126.5291407
+    ],
+    "phoneNumber": "064-755-2731",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/mulhang.jpg",
+    "storeDesc": "싱싱한 갈치와 고등어 요리 전문점",
+    "mapUrl": "https://goo.gl/maps/KuHoNcpj5GRT9zLM6"
+  }
+]
