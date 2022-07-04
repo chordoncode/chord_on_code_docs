@@ -23,11 +23,24 @@
         .link_img {
             cursor:pointer;
         }
+        @media screen
+        and (max-device-width: 640px) {
+            body {
+                margin: 0 auto;
+                width: 100%;
+            }
+        }
+        .space {
+            height: 100px;
+        }
     </style>
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <div id="wrapper">
-    <img src="images/nanulbun_home_main.jpg" alt="">
+    <div id="main-bg">
+        <img src="images/nanulbun_home_main.jpg" alt="">
+    </div>
+    <div class="space"></div>
     <img src="images/still_pay_alone_web_01.jpg" alt="">
     <img src="images/still_pay_alone_web_03.jpg" alt="">
     <img src="images/still_pay_alone_web_04.jpg" alt="">
