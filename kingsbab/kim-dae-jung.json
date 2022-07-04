@@ -1,0 +1,98 @@
+[
+  {
+    "kingsIds": "kim-dae-jung",
+    "order": 1,
+    "storeName": "신안촌",
+    "menuDesc": "산낙지, 낙지연포, 홍어삼합, 홍어찜 등",
+    "address": "서울특별시 종로구 내자동 152",
+    "hoursOfOperation": "월~금 11:30 ~ 21:00\n토 12:00 ~ 20:00\n월~금 브레이크타임 15:00 ~ 16:30\n일요일 휴무",
+    "latLng": [
+      37.5755936,
+      126.9708603
+    ],
+    "phoneNumber": "02-725-7744",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "중소벤처기업부에서 인증한 백년가게, 전라도 음식 전문점",
+    "mapUrl": "https://goo.gl/maps/ei5vt6khXqy1yv5w5"
+  },
+  {
+    "kingsIds": "kim-dae-jung",
+    "order": 2,
+    "storeName": "목포집",
+    "menuDesc": "홍어회, 홍어삼합, 백반, 낙지탕 등",
+    "address": "서울특별시 종로구 운니동 51",
+    "hoursOfOperation": "11:00 ~ 21:30(일요일16:30)",
+    "latLng": [
+      37.5757487,
+      126.9899678
+    ],
+    "phoneNumber": "02-722-0976",
+    "representativeImages": "assets/images/image_ready.png",
+    "storeDesc": "30년전통 남도음식 전문점으로 몸보신하기에 좋은 곳",
+    "mapUrl": "https://goo.gl/maps/mzzr5A3ou6EFaooY9"
+  },
+  {
+    "kingsIds": "kim-dae-jung",
+    "order": 3,
+    "storeName": "홍린",
+    "menuDesc": "중국요리",
+    "address": "서울특별시 강서구 화곡6동 1096-17",
+    "hoursOfOperation": "10:00 ~ 22:00",
+    "latLng": [
+      37.5542797,
+      126.8505194
+    ],
+    "phoneNumber": "02-2608-6556",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/hongrin.jpg",
+    "storeDesc": "서교호텔출신주방장이 개점한 17년의전통중식당",
+    "mapUrl": "https://goo.gl/maps/5zmwn851JBUtNQxU8"
+  },
+  {
+    "kingsIds": "kim-dae-jung",
+    "order": 8,
+    "storeName": "영란횟집",
+    "menuDesc": "민어회, 민어회무침, 민어전 등",
+    "address": "전라남도 목포시 만호동 1-5",
+    "hoursOfOperation": "10:00 ~ 22:00",
+    "latLng": [
+      34.7861098,
+      126.3840712
+    ],
+    "phoneNumber": "061-243-7311",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/youngran.jpg",
+    "storeDesc": "민어회 전문점",
+    "mapUrl": "https://goo.gl/maps/rFU1ksY9cK45Sefq6"
+  },
+  {
+    "kingsIds": "kim-dae-jung",
+    "order": 8,
+    "storeName": "천일식당",
+    "menuDesc": "떡갈비정식, 불고기 정식 등",
+    "address": "전라남도 해남군 해남읍 읍내리 34-1",
+    "hoursOfOperation": "09:30 ~ 21:00",
+    "latLng": [
+      34.570558,
+      126.5993538
+    ],
+    "phoneNumber": "061-535-1001",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/chunil.jpg",
+    "storeDesc": "해남 현지 주민이 추천하는 맛집",
+    "mapUrl": "https://goo.gl/maps/TH8z4XvciFBiUeCr6"
+  },
+  {
+    "kingsIds": "kim-dae-jung",
+    "order": 9,
+    "storeName": "가매일식",
+    "menuDesc": "생대구탕정식, 회덮밥, 주방장요리(오카마세) 등",
+    "address": "광주광역시 서구 농성동 상무대로 1104-26",
+    "hoursOfOperation": "11:00 ~ 22:00",
+    "latLng": [
+      35.1524988,
+      126.8838341
+    ],
+    "phoneNumber": "062-352-7711",
+    "representativeImages": "https://www.chordoncode.com/kingsbab/assets/stores/game.jpg",
+    "storeDesc": "광주광역시 스시 명장",
+    "mapUrl": "https://goo.gl/maps/cZSgN3oHmtj1PsB87"
+  }
+]
