@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.jpeg$
+Disallow: /*.jpg$
+Disallow: /*.json$
+Disallow: /*.txt$
+Disallow: /*.css$
+Disallow: /*.js$
+Disallow: /*policy.html$
+Disallow: /*conditions.html$
+Disallow: /*agreement.html$
+Allow: /
+Sitemap: https://www.chordoncode.com/sitemap.xml
