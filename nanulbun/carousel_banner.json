@@ -1,5 +1,11 @@
 [
   {
+    "title": "앱 업데이트를 해주세요!",
+    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/version_update/version_update.jpg",
+    "link": "https://www.chordoncode.com/nanulbun/share.html",
+    "maxAppVersion": "2.1.0"
+  },
+  {
     "title": "로켓나눔을 써보세요!",
     "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/rocket_nanum/rocket_nanum_banner.jpg",
     "link": "https://www.chordoncode.com/nanulbun/assets/banner/rocket_nanum/rocket_nanum.html",
