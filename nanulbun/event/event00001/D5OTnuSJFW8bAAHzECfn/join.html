@@ -17,7 +17,7 @@
         const currentUrl = window.location.href;
         console.log('currentUrl: ' + currentUrl);
 
-        const pathName = currentUrl.pathname; // returns: /nanulbun/event/event00001/D5OTnuSJFW8bAAHzECfn/join.html
+        const pathName = new URL(currentUrl).pathname; // returns: /nanulbun/event/event00001/D5OTnuSJFW8bAAHzECfn/join.html
         console.log('pathName: ' + pathName);
 
         const params = new URLSearchParams(window.location.search) // returns storeId
