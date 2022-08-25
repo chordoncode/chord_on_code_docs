@@ -10,6 +10,7 @@
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://www.chordoncode.com/nanulbun/home-images/nanulbun_home_main.jpg">
     <meta property="og:description" content="배달비, 온라인상품 구매 나눔 커뮤니티 앱">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 
     <script>
         const currentUrl = window.location.href;
@@ -21,19 +22,18 @@
         const eventId = pathNameArr[3]; // returns: D5OTnuSJFW8bAAHzECfn
         const storeId = params.get('storeId');
 
-
-        var xhr = new XMLHttpRequest();
-        var url = 'https://asia-northeast3-nanulbun-f771a.cloudfunctions.net/joinEvent00001';
-        xhr.open("POST", url, true);
-
-        // function execute after request is successful
-        xhr.onreadystatechange = function () {
-            if (this.readyState == 4 && this.status == 200) {
-                console.log(this.responseText);
+        $.ajax({
+            type : "GET",
+            url : "https://asia-northeast3-nanulbun-f771a.cloudfunctions.net/joinEvent00001",
+            data : "id=kyu",
+            dataType : "jsonp",
+            success : function(json) {
+                alert(json.id + ", " + json.result);
+            },
+            error : function(e) {
+                alert("error");
             }
-        }
-        // Sending our request
-        xhr.send();
+        });
     </script>
 </head>
 </html>
