@@ -12,8 +12,14 @@
     <meta property="og:description" content="배달비, 온라인상품 구매 나눔 커뮤니티 앱">
 
     <script>
+        // https://chordoncode.com/nanulbun/event/event00001/D5OTnuSJFW8bAAHzECfn/join.html?storeId=5szCQcg3oKXNpJpNGTsJ
+
         const currentUrl = window.location.href;
+        console.log('currentUrl: ' + currentUrl);
+
         const pathName = currentUrl.pathname; // returns: /nanulbun/event/event00001/D5OTnuSJFW8bAAHzECfn/join.html
+        console.log('pathName: ' + pathName);
+
         const params = new URLSearchParams(window.location.search) // returns storeId
 
         const pathNameArr = pathName.split('/');
