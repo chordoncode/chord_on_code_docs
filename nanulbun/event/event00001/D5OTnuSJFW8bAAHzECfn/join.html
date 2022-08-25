@@ -22,10 +22,15 @@
         const eventId = pathNameArr[3]; // returns: D5OTnuSJFW8bAAHzECfn
         const storeId = params.get('storeId');
 
+        const data = {
+            type: eventType,
+            eventId: eventId,
+            storeId: storeId
+        };
         $.ajax({
             type : "GET",
             url : "https://asia-northeast3-nanulbun-f771a.cloudfunctions.net/joinEvent00001",
-            data : "id=kyu",
+            data : data,
             dataType : "jsonp",
             success: function(json) {
                 alert(json.data.store);
