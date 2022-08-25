@@ -27,8 +27,8 @@
             url : "https://asia-northeast3-nanulbun-f771a.cloudfunctions.net/joinEvent00001",
             data : "id=kyu",
             dataType : "jsonp",
-            success : function(json) {
-                alert(json.id + ", " + json.result);
+            success : function(result) {
+                alert(result);
             },
             error : function(e) {
                 alert("error");
