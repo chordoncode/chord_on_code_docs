@@ -6,6 +6,12 @@
     "maxAppVersion": "2.1.0"
   },
   {
+    "title": "biz나눔 오픈 예정이에요!",
+    "image_path": "https://www.chordoncode.com/nanulbun/assets/biznanum_banner/biznanum_open_soon.jpg",
+    "link": "https://www.chordoncode.com/nanulbun/assets/biznanum_banner/biznanum_open_soon_page/biznanum_open_soon.html",
+    "maxAppVersion": "2.1.0"
+  },
+  {
     "title": "로켓나눔을 써보세요!",
     "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/rocket_nanum/rocket_nanum_banner.jpg",
     "link": "https://www.chordoncode.com/nanulbun/assets/banner/rocket_nanum/rocket_nanum.html",
