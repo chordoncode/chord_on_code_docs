@@ -6,9 +6,11 @@
         const urlParams = new URLSearchParams(window.location.search);
         const value = urlParams.get('value');
 
-        navigator.clipboard.writeText(value).then(() => {
-            window.location.href = value;
-        });
+        if (value != null) {
+            navigator.clipboard.writeText(value).then(() => {
+                window.location.href = value;
+            });
+        }
     </script>
 </head>
 </html>
