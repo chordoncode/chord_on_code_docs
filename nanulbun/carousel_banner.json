@@ -1,31 +1,31 @@
 [
   {
     "title": "앱 업데이트를 해주세요!",
-    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/version_update/version_update.jpg",
+    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/version_update/version_update_v2.jpg",
     "link": "https://www.chordoncode.com/nanulbun/share.html",
     "maxAppVersion": "2.1.0"
   },
   {
     "title": "biz나눔 오픈 예정이에요!",
-    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/biznanum/biznanum_open_soon.jpg",
+    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/biznanum/biznanum_open_soon_v2.jpg",
     "link": "https://www.chordoncode.com/nanulbun/assets/banner/biznanum/biznanum_open_soon_page/biznanum_open_soon.html",
     "maxAppVersion": "999.0.0"
   },
   {
     "title": "로켓나눔을 써보세요!",
-    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/rocket_nanum/rocket_nanum_banner.jpg",
+    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/rocket_nanum/rocket_nanum_banner_v2.jpg",
     "link": "https://www.chordoncode.com/nanulbun/assets/banner/rocket_nanum/rocket_nanum.html",
     "maxAppVersion": "999.0.0"
   },
   {
     "title": "아직도 배송비를 혼자내세요?",
-    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/still_pay_alone2.png",
-    "link": "https://www.chordoncode.com/nanulbun/assets/banner/still_pay_alone.html",
+    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/still_pay_alone/still_pay_alone_v2.jpg",
+    "link": "https://www.chordoncode.com/nanulbun/assets/banner/still_pay_alone/still_pay_alone.html",
     "maxAppVersion": "999.0.0"
   },
   {
     "title": "나눌분 이해하기",
-    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/nanulbun_understanding2.png",
+    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/understanding/nanulbun_understanding_v2.png",
     "link": "https://www.chordoncode.com/nanulbun/assets/banner/understanding/underatanding.html",
     "minAppVersion": "1.0.0",
     "maxAppVersion": "999.0.0"
