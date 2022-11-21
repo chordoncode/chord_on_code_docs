@@ -17,11 +17,30 @@
         const value = urlParams.get('value');
 
         if (value != null) {
+            jsCopyLink(value);
+            window.location.href = value;
+
+            /*
             navigator.clipboard.writeText(value).then(() => {
                 window.location.href = value;
             });
+            */
+        }
+
+        function jsCopyLink(copyText) {
+            var tmpTextarea = document.createElement('textarea');
+            tmpTextarea.value = copyText;
+
+            document.body.appendChild(tmpTextarea);
+            tmpTextarea.select();
+            tmpTextarea.setSelectionRange(0, 9999);  // 셀렉트 범위 설정
+
+            document.execCommand('copy');
+            document.body.removeChild(tmpTextarea);
         }
     </script>
+
+
 </head>
 <body>
     <img src="./home-images/logo.png" style="width:50%;" />
