@@ -5,15 +5,18 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
+        html,
         body {
-            max-width: max-content;
-            margin: auto;
+            height: 100%;
+            width: 100%;
         }
 
-        img {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
+        .container {
+            align-items: center;
+            display: flex;
+            justify-content: center;
+            height: 100%;
+            width: 100%;
         }
 
         .button {
@@ -28,6 +31,12 @@
             margin: 4px 2px;
             cursor: pointer;
             border-radius: 30px;
+        }
+
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
         }
 
     </style>
@@ -57,7 +66,11 @@
     </script>
 </head>
 <body>
-    <img src="./home-images/logo.png" style="width:50%;" />
-    <button class="button" id="copy">나눌분 설치하고 경품받기</button>
+    <div class="container">
+        <div class="content">
+            <img src="./home-images/logo.png" style="width:50%;" />
+            <button class="button button4">나눌분 설치하고 경품받기</button>
+        </div>
+    </div>
 </body>
 </html>
