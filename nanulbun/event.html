@@ -18,7 +18,7 @@
 
             document.body.appendChild(tmpTextarea);
             tmpTextarea.select();
-            tmpTextarea.setSelectionRange(0, 9999);  // 셀렉트 범위 설정
+            tmpTextarea.setSelectionRange(0, copyText.length);  // 셀렉트 범위 설정
 
             document.execCommand('copy');
             document.body.removeChild(tmpTextarea);
