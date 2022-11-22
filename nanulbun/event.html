@@ -12,27 +12,6 @@
         }
     </style>
     <script>
-        window.addEventListener('DOMContentLoaded', (event) => {
-            const urlParams = new URLSearchParams(window.location.search);
-            const value = urlParams.get('value');
-
-            if (value != null) {
-                /*
-                jsCopyLink(value);
-                window.location.href = value;
-
-                setTimeout(() => {
-                    alert('go!');
-
-                }, 500);
-                */
-
-                navigator.clipboard.writeText(value).then(() => {
-                    window.location.href = value;
-                });
-            }
-        });
-
         function jsCopyLink(copyText) {
             const tmpTextarea = document.createElement('textarea');
             tmpTextarea.value = copyText;
@@ -44,6 +23,29 @@
             document.execCommand('copy');
             document.body.removeChild(tmpTextarea);
         }
+
+        window.addEventListener('DOMContentLoaded', (event) => {
+            const urlParams = new URLSearchParams(window.location.search);
+            const value = urlParams.get('value');
+
+            if (value != null) {
+
+                jsCopyLink(value);
+                //window.location.href = value;
+
+                setTimeout(() => {
+                    alert('go!');
+                    window.location.href = value;
+
+                }, 500);
+
+                /*
+                navigator.clipboard.writeText(value).then(() => {
+                    window.location.href = value;
+                });
+                */
+            }
+        });
     </script>
 </head>
 <body>
