@@ -10,9 +10,42 @@
           margin-left: auto;
           margin-right: auto;
         }
+
+        .wrap {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin-top: -86px;
+            margin-left: -89px;
+            text-align: center;
+        }
+
+        a {
+            -webkit-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+            -moz-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+            -ms-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+            -o-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+            transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+            display: block;
+            margin: 20px auto;
+            max-width: 180px;
+            text-decoration: none;
+            border-radius: 4px;
+            padding: 20px 30px;
+        }
+
+        a.button {
+            color: rgba(30, 22, 54, 0.6);
+            box-shadow: rgba(30, 22, 54, 0.4) 0 0px 0px 2px inset;
+        }
+
+        a.button:hover {
+            color: rgba(255, 255, 255, 0.85);
+            box-shadow: rgba(30, 22, 54, 0.7) 0 0px 0px 40px inset;
+        }
+
     </style>
     <script>
-
         function copyAndMove() {
             const urlParams = new URLSearchParams(window.location.search);
             const value = urlParams.get('value');
@@ -33,32 +66,14 @@
         window.addEventListener('DOMContentLoaded', (event) => {
 
             document.querySelector("#copy").addEventListener("click", copyAndMove);
-
-            /*
-            const urlParams = new URLSearchParams(window.location.search);
-            const value = urlParams.get('value');
-
-            if (value != null) {
-
-                jsCopyLink(value);
-                //window.location.href = value;
-
-                setTimeout(() => {
-                    alert('go1!');
-                    window.location.href = value;
-
-                }, 500);
-                navigator.clipboard.writeText(value).then(() => {
-                    window.location.href = value;
-                });
-            }
-            */
         });
 
     </script>
 </head>
 <body>
     <img src="./home-images/logo.png" style="width:50%;" />
-    <button id="copy">나눌분 설치하고 경품받기</button>
+    <div class="wrap">
+        <a href="#" class="button">나눌분 설치하고 경품받기</a>
+    </div>
 </body>
 </html>
