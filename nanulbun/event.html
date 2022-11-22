@@ -12,7 +12,12 @@
         }
     </style>
     <script>
-        function jsCopyLink(copyText) {
+        document.querySelector("#copy").addEventListener("click", copy);
+
+        function copy() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const value = urlParams.get('value');
+
             const tmpTextarea = document.createElement('textarea');
             tmpTextarea.value = copyText;
 
@@ -23,7 +28,7 @@
             document.execCommand('copy');
             document.body.removeChild(tmpTextarea);
         }
-
+/*
         window.addEventListener('DOMContentLoaded', (event) => {
             const urlParams = new URLSearchParams(window.location.search);
             const value = urlParams.get('value');
@@ -38,17 +43,16 @@
                     window.location.href = value;
 
                 }, 500);
-
-                /*
                 navigator.clipboard.writeText(value).then(() => {
                     window.location.href = value;
                 });
-                */
             }
         });
+*/
     </script>
 </head>
 <body>
     <img src="./home-images/logo.png" style="width:50%;" />
+    <button id="copy">나눌분 설치하고 경품받기</button>
 </body>
 </html>
