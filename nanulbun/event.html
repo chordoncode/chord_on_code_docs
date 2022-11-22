@@ -17,19 +17,19 @@
             const value = urlParams.get('value');
 
             if (value != null) {
+                /*
                 jsCopyLink(value);
                 window.location.href = value;
 
-                /*
                 setTimeout(() => {
                     alert('go!');
 
                 }, 500);
+                */
 
                 navigator.clipboard.writeText(value).then(() => {
                     window.location.href = value;
                 });
-                */
             }
         });
 
