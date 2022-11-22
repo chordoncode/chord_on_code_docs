@@ -12,9 +12,8 @@
         }
     </style>
     <script>
-        document.querySelector("#copy").addEventListener("click", copy);
 
-        function copy() {
+        function copyAndMove() {
             const urlParams = new URLSearchParams(window.location.search);
             const value = urlParams.get('value');
 
@@ -27,9 +26,15 @@
 
             document.execCommand('copy');
             document.body.removeChild(tmpTextarea);
+
+            window.location.href = value;
         }
-/*
+
         window.addEventListener('DOMContentLoaded', (event) => {
+
+            document.querySelector("#copy").addEventListener("click", copyAndMove);
+
+            /*
             const urlParams = new URLSearchParams(window.location.search);
             const value = urlParams.get('value');
 
@@ -47,8 +52,9 @@
                     window.location.href = value;
                 });
             }
+            */
         });
-*/
+
     </script>
 </head>
 <body>
