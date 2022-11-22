@@ -6,31 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         img {
-          display: block;
-          margin-left: auto;
-          margin-right: auto;
-        }
-
-        .wrap {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            margin-top: -86px;
-            margin-left: -89px;
-            text-align: center;
-        }
-
-        a {
             display: block;
-            margin: 20px auto;
-            max-width: 180px;
-            text-decoration: none;
-            border-radius: 20px;
-            padding: 20px 30px;
+            margin-left: auto;
+            margin-right: auto;
         }
 
-        a.button {
-            color: rgba(155, 185, 1, 1);
+        .button {
+            background-color: #9bb901;
+            border: none;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 20px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 30px;
         }
 
     </style>
@@ -61,8 +53,6 @@
 </head>
 <body>
     <img src="./home-images/logo.png" style="width:50%;" />
-    <div class="wrap">
-        <a href="#" class="button">나눌분 설치하고 경품받기</a>
-    </div>
+    <button class="button" id="copy">나눌분 설치하고 경품받기</button>
 </body>
 </html>
