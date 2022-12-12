@@ -71,9 +71,9 @@
         }
 
         window.addEventListener('DOMContentLoaded', (event) => {
-            if (/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+            //if (/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
                 document.getElementById("clipboard_permission").style.display = "block";
-            }
+            //}
             document.querySelector("#copy").addEventListener("click", copyAndMove);
         });
 
