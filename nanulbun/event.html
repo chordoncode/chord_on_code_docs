@@ -71,7 +71,7 @@
         }
 
         window.addEventListener('DOMContentLoaded', (event) => {
-
+            document.getElementById("clipboard_permission").style.display = "block";
             document.querySelector("#copy").addEventListener("click", copyAndMove);
         });
 
@@ -82,6 +82,7 @@
         <div class="content">
             <img src="./home-images/logo.png" />
             <button id="copy">나눌분 설치하고 경품받기</button>
+            <img id="clipboard_permission" src="./ios_clipboard_permission.jpeg" style="display:none"/>
         </div>
     </div>
 </body>
