@@ -22,7 +22,7 @@
         img {
             display: block;
             margin: auto;
-            width: 40%;
+            width: 60%;
         }
 
         .container {
@@ -49,6 +49,13 @@
             margin: 4px 2px;
             cursor: pointer;
             border-radius: 30px;
+        }
+
+        #clipboard_permission {
+            padding: 20px
+        }
+        #logo {
+            width: 40%;
         }
     </style>
     <script>
@@ -81,9 +88,9 @@
 <body>
     <div class="container">
         <div class="content">
-            <img src="./home-images/logo.png" />
+            <img id="logo" src="./home-images/logo.png" />
             <img id="clipboard_permission" src="./ios_clipboard_permission.jpeg" style="display:none"/>
-            <img src="./install_and_gift.png" />
+            <img id="copy" src="./install_and_gift_btn.png" />
         </div>
     </div>
 </body>
