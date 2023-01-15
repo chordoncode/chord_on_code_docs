@@ -60,7 +60,7 @@
     <script>
         function copyAndMove() {
             const urlParams = new URLSearchParams(window.location.search);
-            const value = urlParams.get('value');
+            var value = urlParams.get('value');
             value = 'https%3A%2F%2Fnanulbun.page.link%2F%3Fapn%3Dcom.chordoncode.nanulbun%26isi%3D1616815446%26ibi%3Dcom.chordoncode.nanulbun%26efr%3D1%26link%3Dhttps%3A%2F%2Fwww.chordoncode.com%2Fnanulbun%2Flink.html%253Ft%253Dqrcode%2526' + value;
 
             const tmpTextarea = document.createElement('textarea');
