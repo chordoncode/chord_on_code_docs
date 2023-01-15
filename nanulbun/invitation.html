@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>세상의 모든 나눔, 나눌분</title>
+    <meta name="keywords" content="배달비,배달음식,배달,소분,배송비,엔빵,최소금액,나누기,배송비,나눔,반반나눔,벌크나눔,벌크상품,코스트코할인,할인상품,코스트코,애플할인,레고할인,애견할인,같이사요,함께사요,공동구매">
+    <meta name="description" content="배달비 나눔, 같이사요, 할인상품 바로나눔 | 이웃과 함께 하는 합리적인 소비의 시작, 나눌분!">
+    <meta name="google-site-verification" content="7pZurLe1BOamqPd6JItvpIu63trF88_FZZgkbw64TbE" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta property="og:title" content="코끼리마트 X 나눌분 이벤트">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://www.chordoncode.com/nanulbun/assets/event/kokiri_event.png">
+    <meta property="og:description" content="나눌분 앱 중앙배너 터치로 응모">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        html,
+        body {
+            height: 100%;
+            width: 100%;
+        }
+
+        img {
+            display: block;
+            margin: auto;
+            width: 60%;
+        }
+
+        .container {
+            align-items: center;
+            display: flex;
+            justify-content: center;
+            height: 100%;
+            width: 100%;
+        }
+
+        div {
+            text-align: center;
+        }
+
+        button {
+            background-color: #9bb901;
+            border: none;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 20px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 30px;
+        }
+
+        #clipboard_permission {
+            padding: 20px
+        }
+        #logo {
+            width: 40%;
+        }
+    </style>
+    <script>
+        function copyAndMove() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const value = urlParams.get('value');
+            value = 'https%3A%2F%2Fnanulbun.page.link%2F%3Fapn%3Dcom.chordoncode.nanulbun%26isi%3D1616815446%26ibi%3Dcom.chordoncode.nanulbun%26efr%3D1%26link%3Dhttps%3A%2F%2Fwww.chordoncode.com%2Fnanulbun%2Flink.html%253Ft%253Dqrcode%2526' + value;
+
+            const tmpTextarea = document.createElement('textarea');
+            tmpTextarea.value = value;
+
+            document.body.appendChild(tmpTextarea);
+            tmpTextarea.select();
+            tmpTextarea.setSelectionRange(0, value.length);  // 셀렉트 범위 설정
+
+            document.execCommand('copy');
+            document.body.removeChild(tmpTextarea);
+
+            window.location.href = value;
+        }
+
+        window.addEventListener('DOMContentLoaded', (event) => {
+            if (/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+                document.getElementById("clipboard_permission").style.display = "block";
+            }
+            document.querySelector("#copy").addEventListener("click", copyAndMove);
+        });
+
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <img id="logo" src="./home-images/logo.png" />
+            <img id="clipboard_permission" src="./ios_clipboard_permission2.png" style="display:none"/>
+            <img id="copy" src="./install_and_gift_btn.png" />
+            <div style="margin-top: 10px; font-size: 13px;">* 경품은 상품 구매 시에만 제공됩니다.</div>
+        </div>
+    </div>
+</body>
+</html>
