@@ -6,7 +6,7 @@
     <meta name="description" content="우리동네 쇼핑정보 한눈에! 집앞가게">
     <meta name="google-site-verification" content="7pZurLe1BOamqPd6JItvpIu63trF88_FZZgkbw64TbE" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta property="og:title" content="코끼리마트 X 집앞가게 이벤트">
+    <meta property="og:title" content="테스트스토어 X 집앞가게 이벤트">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://www.chordoncode.com/nanulbun/assets/event/kokiri_event.png">
     <meta property="og:description" content="집앞가게 앱 상단배너 터치로 응모">
@@ -60,7 +60,8 @@
     <script>
         function copyAndMove() {
             const urlParams = new URLSearchParams(window.location.search);
-            const value = urlParams.get('value');
+            var value = urlParams.get('value');
+            value = 'https://nanulbun.page.link/?apn=com.chordoncode.nanulbun&isi=1616815446&ibi=com.chordoncode.nanulbun&efr=1&link=https://www.chordoncode.com%2Fnanulbun%2Flink.html%3Ft%3Dqrcode%26type%3Dinvitation%26storeId%3Da9AqRaDQPPYIcdJPGZzf%26eventId%3DsSHKMLUATn014BaPTwB5%26' + value;
 
             const tmpTextarea = document.createElement('textarea');
             tmpTextarea.value = value;
