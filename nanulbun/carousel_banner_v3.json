@@ -1,5 +1,11 @@
 [
   {
+    "title": "앱 업데이트를 해주세요!",
+    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/version_update/version_update_v2.jpg",
+    "link": "https://nanulbun.page.link/share",
+    "maxAppVersion": "3.999.999"
+  },
+  {
     "title": "집앞가게 소개",
     "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/town_store/town_store.jpg",
     "link": "https://www.chordoncode.com/nanulbun/assets/banner/town_store/introduce_town_store/introduce_town_store.html",
