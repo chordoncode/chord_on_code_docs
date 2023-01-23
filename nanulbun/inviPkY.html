@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>우리동네 쇼핑정보 한눈에! 집앞가게</title>
+    <meta name="keywords" content="우리동네, 쇼핑정보, 할인정보, 집앞가게">
+    <meta name="description" content="우리동네 쇼핑정보 한눈에! 집앞가게">
+    <meta name="google-site-verification" content="7pZurLe1BOamqPd6JItvpIu63trF88_FZZgkbw64TbE" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta property="og:title" content="루시다 X 집앞가게 이벤트">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://firebasestorage.googleapis.com/v0/b/nanulbun-f771a.appspot.com/o/store_home%2FmlRryEdMnyOC86H5ezyuUAYJ9UV2%2F00000%2F2022_11%2F1667886371481_scaled_image_picker7278188676397661658_compressed2167701232106558204.jpg?alt=media&token=b66edaa7-8ffe-4b25-8b4f-412e2e024b21">
+    <meta property="og:description" content="집앞가게 앱 상단배너 터치로 응모">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        html,
+        body {
+            height: 100%;
+            width: 100%;
+        }
+
+        img {
+            display: block;
+            margin: auto;
+            width: 60%;
+        }
+
+        .container {
+            align-items: center;
+            display: flex;
+            justify-content: center;
+            height: 100%;
+            width: 100%;
+        }
+
+        div {
+            text-align: center;
+        }
+
+        button {
+            background-color: #9bb901;
+            border: none;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 20px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 30px;
+        }
+
+        #clipboard_permission {
+            padding: 20px
+        }
+        #logo {
+            width: 40%;
+        }
+    </style>
+    <script>
+        function copyAndMove() {
+            const urlParams = new URLSearchParams(window.location.search);
+            var value = urlParams.get('value');
+            value = 'https://nanulbun.page.link/?apn=com.chordoncode.nanulbun&isi=1616815446&ibi=com.chordoncode.nanulbun&efr=1&link=https://www.chordoncode.com%2Fnanulbun%2Flink.html%3Ft%3Dqrcode%26type%3Dinvitation%26storeId%3D5szCQcg3oKXNpJpNGTsJ%26eventId%3DPkYJhqK2Q72wN2EgQkXj%26' + value;
+
+            const tmpTextarea = document.createElement('textarea');
+            tmpTextarea.value = value;
+
+            document.body.appendChild(tmpTextarea);
+            tmpTextarea.select();
+            tmpTextarea.setSelectionRange(0, value.length);  // 셀렉트 범위 설정
+
+            document.execCommand('copy');
+            document.body.removeChild(tmpTextarea);
+
+            window.location.href = value;
+        }
+
+        window.addEventListener('DOMContentLoaded', (event) => {
+            if (/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+                document.getElementById("clipboard_permission").style.display = "block";
+            }
+            document.querySelector("#copy").addEventListener("click", copyAndMove);
+        });
+
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="content">
+        <img id="logo" src="./home-images/logo2.png" />
+        <img id="clipboard_permission" src="./ios_clipboard_permission3.jpg" style="display:none"/>
+        <img id="copy" src="./install_and_discount_btn2.png" />
+        <div style="margin-top: 10px; font-size: 13px;">* 할인은 상품 구매 시에만 제공됩니다.</div>
+    </div>
+</div>
+</body>
+</html>
