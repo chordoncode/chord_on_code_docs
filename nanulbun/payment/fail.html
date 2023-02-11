@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        html,
+        body {
+            height: 100%;
+            width: 100%;
+        }
+
+        img {
+            display: block;
+            margin: auto;
+            width: 60%;
+        }
+
+        .container {
+            align-items: center;
+            display: flex;
+            justify-content: center;
+            height: 100%;
+            width: 100%;
+        }
+
+        div {
+            text-align: center;
+        }
+
+        button {
+            background-color: #9bb901;
+            border: none;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 20px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 30px;
+        }
+
+        #clipboard_permission {
+            padding: 20px
+        }
+        #logo {
+            width: 40%;
+        }
+    </style>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        messageHandler.postMessage(urlParams.toString());
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="content">
+        <img id="logo" src="./home-images/logo2.png" />
+    </div>
+</div>
+</body>
+</html>

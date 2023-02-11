@@ -6,10 +6,10 @@
     <meta name="description" content="우리동네 쇼핑정보 한눈에! 집앞가게">
     <meta name="google-site-verification" content="7pZurLe1BOamqPd6JItvpIu63trF88_FZZgkbw64TbE" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta property="og:title" content="우리동네 쇼핑정보 한눈에! 집앞가게">
+    <meta property="og:title" content="루시다 X 집앞가게 이벤트">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://www.chordoncode.com/nanulbun/home-images/nanulbun_image.jpg">
-    <meta property="og:description" content="우리동네 쇼핑정보 한눈에! 집앞가게">
+    <meta property="og:image" content="https://firebasestorage.googleapis.com/v0/b/nanulbun-f771a.appspot.com/o/store_home%2FmlRryEdMnyOC86H5ezyuUAYJ9UV2%2F00000%2F2022_11%2F1667886371481_scaled_image_picker7278188676397661658_compressed2167701232106558204.jpg?alt=media&token=b66edaa7-8ffe-4b25-8b4f-412e2e024b21">
+    <meta property="og:description" content="집앞가게 앱 상단배너 터치로 응모">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         html,
@@ -60,7 +60,8 @@
     <script>
         function copyAndMove() {
             const urlParams = new URLSearchParams(window.location.search);
-            const value = urlParams.get('value');
+            var value = urlParams.get('value');
+            value = 'https://nanulbun.page.link/?apn=com.chordoncode.nanulbun&isi=1616815446&ibi=com.chordoncode.nanulbun&efr=1&link=https://www.chordoncode.com%2Fnanulbun%2Flink.html%3Ft%3Dqrcode%26type%3Dinvitation%26storeId%3D5szCQcg3oKXNpJpNGTsJ%26eventId%3DPkYJhqK2Q72wN2EgQkXj%26' + value;
 
             const tmpTextarea = document.createElement('textarea');
             tmpTextarea.value = value;
@@ -89,7 +90,8 @@
     <div class="content">
         <img id="logo" src="./home-images/logo2.png" />
         <img id="clipboard_permission" src="./ios_clipboard_permission3.jpg" style="display:none"/>
-        <img id="copy" src="./favorite_store_btn2.png" />
+        <img id="copy" src="./install_and_discount_btn2.png" />
+        <div style="margin-top: 10px; font-size: 13px;">* 할인은 상품 구매 시에만 제공됩니다.</div>
     </div>
 </div>
 </body>
