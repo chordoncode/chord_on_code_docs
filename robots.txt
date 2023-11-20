@@ -9,4 +9,4 @@ Disallow: /*policy.html$
 Disallow: /*conditions.html$
 Disallow: /*agreement.html$
 Allow: /
-Sitemap: https://www.chordoncode.com/sitemap.xml
+Sitemap: https://static.chordoncode.com/sitemap.xml

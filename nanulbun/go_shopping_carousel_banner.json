@@ -1,8 +1,8 @@
 [
   {
     "title": "집앞가게 소개",
-    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/town_store/town_store.jpg",
-    "link": "https://www.chordoncode.com/nanulbun/assets/banner/town_store/introduce_town_store/introduce_town_store.html",
+    "image_path": "https://static.chordoncode.com/nanulbun/assets/banner/town_store/town_store.jpg",
+    "link": "https://static.chordoncode.com/nanulbun/assets/banner/town_store/introduce_town_store/introduce_town_store.html",
     "maxAppVersion": "999.0.0"
   }
 ]

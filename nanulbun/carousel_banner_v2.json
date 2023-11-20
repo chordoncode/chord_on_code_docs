@@ -1,32 +1,32 @@
 [
   {
     "title": "앱 업데이트를 해주세요!",
-    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/version_update/version_update_v2.jpg",
-    "link": "https://www.chordoncode.com/nanulbun/share.html",
+    "image_path": "https://static.chordoncode.com/nanulbun/assets/banner/version_update/version_update_v2.jpg",
+    "link": "https://static.chordoncode.com/nanulbun/share.html",
     "maxAppVersion": "2.4.0"
   },
   {
     "title": "싸게사요 오픈!",
-    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/biznanum/biznanum_open_v2.jpg",
-    "link": "https://www.chordoncode.com/nanulbun/assets/banner/biznanum/biznanum_open_page/biznanum_open.html",
+    "image_path": "https://static.chordoncode.com/nanulbun/assets/banner/biznanum/biznanum_open_v2.jpg",
+    "link": "https://static.chordoncode.com/nanulbun/assets/banner/biznanum/biznanum_open_page/biznanum_open.html",
     "maxAppVersion": "999.0.0"
   },
   {
     "title": "반반나눔을 써보세요!",
-    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/banban_nanum/banban_nanum_banner_v1.jpg",
-    "link": "https://www.chordoncode.com/nanulbun/assets/banner/banban_nanum/banban_nanum.html",
+    "image_path": "https://static.chordoncode.com/nanulbun/assets/banner/banban_nanum/banban_nanum_banner_v1.jpg",
+    "link": "https://static.chordoncode.com/nanulbun/assets/banner/banban_nanum/banban_nanum.html",
     "maxAppVersion": "999.0.0"
   },
   {
     "title": "아직도 배송비를 혼자내세요?",
-    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/still_pay_alone/still_pay_alone_v2.jpg",
-    "link": "https://www.chordoncode.com/nanulbun/assets/banner/still_pay_alone/still_pay_alone.html",
+    "image_path": "https://static.chordoncode.com/nanulbun/assets/banner/still_pay_alone/still_pay_alone_v2.jpg",
+    "link": "https://static.chordoncode.com/nanulbun/assets/banner/still_pay_alone/still_pay_alone.html",
     "maxAppVersion": "999.0.0"
   },
   {
     "title": "나눌분 이해하기",
-    "image_path": "https://www.chordoncode.com/nanulbun/assets/banner/understanding/nanulbun_understanding_v2.jpg",
-    "link": "https://www.chordoncode.com/nanulbun/assets/banner/understanding/underatanding.html",
+    "image_path": "https://static.chordoncode.com/nanulbun/assets/banner/understanding/nanulbun_understanding_v2.jpg",
+    "link": "https://static.chordoncode.com/nanulbun/assets/banner/understanding/underatanding.html",
     "minAppVersion": "1.0.0",
     "maxAppVersion": "999.0.0"
   }
